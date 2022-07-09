@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Manual Tester 🚀 from India, currently, I'm a QA Team Member 🙍🏽‍♂️ [@InsstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling.
+Hi, I'm [Amitabh Kabi](https://www.linkedin.com/in/amitabh-kabi-a4a33b238), a Manual Tester 🚀 from India, currently, I'm a QA Team Member 🙍🏽‍♂️ [@InstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://aenmo.dev/img/code.gif?raw=true" width="500" height="320" />
   
@@ -12,7 +12,7 @@ Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Manual Tester 🚀 from 
 - 👨🏽‍💻 I’m currently working as Trainee [@InstaSafe](https://instasafe.com) ;
 - 🌱 I’m currently learning Manual Testing; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@linkdin](https://www.linkedin.com/in/amitabh-kabi-a4a33b238/);
+- 📫 How to reach me: [@linkdin](https://www.linkedin.com/in/amitabh-kabi-a4a33b238);
 
 **Languages and Tools:**  
 
