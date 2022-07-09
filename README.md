@@ -1,8 +1,9 @@
 <code><img src="https://aenmo.dev/img/ked.png"></code>
 
+
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Manual Tester 🚀 from India, currently, I'm a QA Team Member 🙍🏽‍♂️ [@InsstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling.
+Hi, I'm [Amitabh Kabi](https://github.com/Amitabhkabi1), a Manual Tester 🚀 from India, currently, I'm a QA Team Member 🙍🏽‍♂️ [@InsstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://aenmo.dev/img/code.gif?raw=true" width="500" height="320" />
   
