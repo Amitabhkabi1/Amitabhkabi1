@@ -1,18 +1,25 @@
-<code><img src="https://aenmo.dev/img/ked.png"></code>
+<code><img src="https://aenmo.dev/img/ked.png"></code> 
 
 
 <br />
 
 Hi, I'm [Amitabh Kabi](https://www.linkedin.com/in/amitabh-kabi-a4a33b238), a Manual Tester 🚀 from India, currently I'm a QA Team Member 🙍🏽‍♂️ [@InstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling and gaming.
 
-  <img align="right" alt="GIF" src="https://aenmo.dev/img/code.gif?raw=true" width="500" height="320" />
-  
+<a href="https://www.instagram.com/k.a.b_i/">  
+<img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>                                                                                                                                                                                                             <a href="https://www.linkedin.com/in/amitabh-kabi/">
+<img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+    
+<br />
+<br />
+    
+    
 **Talking about Personal Stuffs:**
-
+ 
 - 👨🏽‍💻 I’m currently working as QA test engineer[@InstaSafe](https://instasafe.com) ;
 - 🌱 I’m currently learning Manual Testing; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@linkdin](https://www.linkedin.com/in/amitabh-kabi-a4a33b238);
+
 
 **Languages and Tools:**  
 
