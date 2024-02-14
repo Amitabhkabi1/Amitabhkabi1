@@ -16,7 +16,7 @@ Hi, I'm [Amitabh Kabi](https://www.linkedin.com/in/amitabh-kabi-a4a33b238), a Ma
 **Talking about Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working as QA test engineer[@InstaSafe](https://instasafe.com) ;
-- 🌱 I’m currently learning Manual Testing; 
+- 🌱 I’m currently learning Manual and Automation Testing; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@linkdin](https://www.linkedin.com/in/amitabh-kabi-a4a33b238);
 
