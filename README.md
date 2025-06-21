@@ -3,7 +3,8 @@
 
 <br />
 
-Hi, I'm [Amitabh Kabi](https://www.linkedin.com/in/amitabh-kabi-a4a33b238), a Manual and Automation tester 🚀 from India, currently I'm a QA Team Member 🙍🏽‍♂️ [@InstaSafe](https://instasafe.com). Beside's work, I enjoy eating food and traveling and gaming.
+Hi, I'm [Amitabh Kabi](https://www.linkedin.com/in/amitabh-kabi-a4a33b238), a Manual and Automation tester 🚀 from India, currently I'm a QA Team Member 🙍🏽‍♂️ [@InstaSafe](https://instasafe.com). 
+Beside's work, I enjoy eating food and traveling and gaming.
 
 <a href="https://www.instagram.com/k.a.b_i/">  
 <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>                                                                                                                                                                                                             <a href="https://www.linkedin.com/in/amitabh-kabi/">
